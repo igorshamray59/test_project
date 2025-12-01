@@ -1,0 +1,1 @@
+SELECT to_char(current_date, 'YYYYMM') as year_month
