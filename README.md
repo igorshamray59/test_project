@@ -17,3 +17,5 @@ php setup-database.php
 ```bash
 php spark serve
 ```
+
+# Также в папке dop_tasks находятся задачи с 8 по 10 из ТЗ.
